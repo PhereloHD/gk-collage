@@ -1,4 +1,5 @@
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-midnight
-title: GK-Collage
-description: Eine Collage zu den Artikeln die wir jede Woche bearbeiten müssen.
-gem "github-pages", group: :jekyll_plugins
