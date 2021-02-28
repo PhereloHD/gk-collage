@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: GK-Collage
 description: Eine Collage zu den Artikeln die wir jede Woche bearbeiten müssen.
+gem "github-pages", group: :jekyll_plugins
